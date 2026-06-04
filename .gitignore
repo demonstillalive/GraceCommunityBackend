@@ -1,0 +1,15 @@
+# Backend .gitignore
+node_modules/
+.DS_Store
+*.log
+npm-debug.log*
+.env
+.env.prod
+.env.local
+dist/
+build/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
